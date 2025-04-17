@@ -1,0 +1,121 @@
+# The whoami Command 👤
+
+## What It Does
+
+The `whoami` command prints the name of the user you’re logged in as—your username. It’s like asking Linux, “Hey, who am I right now?” It’s simple and doesn’t need any extra input.
+
+## Why It Matters
+
+It helps confirm your identity in the terminal, especially when switching between users or checking permissions. It’s a quick way to know who Linux thinks you are.
+
+## Big Example
+
+Imagine you’re setting up a music festival on a shared Linux server with your team.
+
+1. **Check your username**:
+
+   ```bash
+   whoami
+   ```
+
+   Output:
+
+   ```
+   user
+   ```
+
+   This confirms you’re logged in as `user`.
+
+2. **Create a festival file**:
+
+   ```bash
+   echo "Festival Plan" > /home/user/festival/plan.txt
+   ```
+
+3. **Verify you’re the right user**:
+
+   ```bash
+   whoami
+   ```
+
+   Output:
+
+   ```
+   user
+   ```
+
+   Good, you’re still `user`, so you have access to `/home/user`.
+
+4. **What if you’re someone else?**: Suppose you switch users (e.g., to `admin`):
+
+   ```bash
+   whoami
+   ```
+
+   Output:
+
+   ```
+   admin
+   ```
+
+   Now you know you’re `admin`, which might affect file access.
+
+5. **Use it in a script**:
+
+   ```bash
+   echo "echo You are: \$(whoami)" > /home/user/festival/check.sh
+   chmod +x /home/user/festival/check.sh
+   ./check.sh
+   ```
+
+   Output:
+
+   ```
+   You are: user
+   ```
+
+## When to Use
+
+- Checking your current user.
+- Debugging permission issues.
+- Scripting to track who’s running a command.
+
+## Exercise
+
+**Task**: Explore `whoami` in a festival setup.
+
+1. Run `whoami`:
+
+   ```bash
+   whoami
+   ```
+
+   Note your username.
+
+2. Create a file with your username:
+
+   ```bash
+   whoami > /home/user/festival/myname.txt
+   ```
+
+3. Check the file:
+
+   ```bash
+   cat /home/user/festival/myname.txt
+   ```
+
+4. Make a script to greet the user:
+
+   ```bash
+   echo "echo Hello, \$(whoami)!" > /home/user/festival/greet.sh
+   chmod +x /home/user/festival/greet.sh
+   ./greet.sh
+   ```
+
+5. Verify the output matches your username.
+
+#whoami
+
+---
+
+*Last updated: April 16, 2025*
