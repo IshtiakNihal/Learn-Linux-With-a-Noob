@@ -10,7 +10,7 @@ The Linux Learning Lab is your personal journey through the Linux terminal, cove
 
 - [Terminal Rockstar Guide](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/blob/dcabf235448f3f9564d5ca969682080e0c4516d4/01%20-%20Terminal%20Rockstar%20Guide/1.1%20-%20whoami_Whos%20That%20User%20.markdown) 🎸
   - Master commands like `whoami` and `echo` with festival flair.
-- [Pathfinder's Linux Adventure](./pathfinders-adventure/README.md) 🗺️
+- [Pathfinder's Linux Adventure](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/tree/259abce9ffb554ad0b8f3b88ecd158aa13ebce95/02%20-%20Pathfinder's%20Linux%20Adventure) 🗺️
   - Navigate Linux paths and directories like a pro explorer.
 
 ---
