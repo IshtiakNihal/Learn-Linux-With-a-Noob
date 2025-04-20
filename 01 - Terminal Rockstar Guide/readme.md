@@ -8,9 +8,9 @@ This repository dives into two fundamental Linux commands: `whoami` and `echo`. 
 
 ## Table of Contents
 
-- [The whoami Command](./whoami/whoami.md) 👤
-- [The echo Command](./echo/echo.md) 🗣️
-- [Quick Practice](./practice/practice.md) 🏋️‍♂️
+- [The whoami Command](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/blob/d40f28fb42db78c41c4d61a529bde60ea8287b45/01%20-%20Terminal%20Rockstar%20Guide/1.1%20-%20whoami_Whos%20That%20User%20.markdown) 👤
+- [The echo Command](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/blob/d40f28fb42db78c41c4d61a529bde60ea8287b45/01%20-%20Terminal%20Rockstar%20Guide/1.2%20-%20echo_Shout%20It%20Out%20with%20echo.markdown) 🗣️
+- [Quick Practice](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/blob/d40f28fb42db78c41c4d61a529bde60ea8287b45/01%20-%20Terminal%20Rockstar%20Guide/Ex%20-%20practice_Jam%20Session%20Practice.markdown) 🏋️‍♂️
 
 ---
 
