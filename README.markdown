@@ -12,14 +12,6 @@ The Linux Learning Lab is your personal journey through the Linux terminal, cove
   - Master commands like `whoami` and `echo` with festival flair.
 - [Pathfinder's Linux Adventure](./pathfinders-adventure/README.md) 🗺️
   - Navigate Linux paths and directories like a pro explorer.
-- [Command Crafter's Toolkit](./command-crafters-toolkit/README.md) 🛠️
-  - Build your skills with file management commands like `cat`, `ls`, and `find`.
-- [Docs Decoder's Guide](./docs-decoders-guide/README.md) 📚
-  - Unlock the power of command documentation with `man` and `help`.
-- [Wildcard Wizardry](./wildcard-wizardry/README.md) 🌈
-  - Conjure file patterns with wildcards like `*`, `?`, and `[]`.
-- [Piping Prodigy](./piping-prodigy/README.md) 🎶
-  - Master redirection, piping, and process substitution with flow and finesse.
 
 ---
 
