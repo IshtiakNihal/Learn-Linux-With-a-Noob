@@ -12,6 +12,8 @@ The Linux Learning Lab is your personal journey through the Linux terminal, cove
   - Master commands like `whoami` and `echo` with festival flair.
 - [Pathfinder's Linux Adventure](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/tree/259abce9ffb554ad0b8f3b88ecd158aa13ebce95/02%20-%20Pathfinder's%20Linux%20Adventure) 🗺️
   - Navigate Linux paths and directories like a pro explorer.
+- [Command Crafter's Toolkit](./command-crafters-toolkit/README.md) 🛠️
+  - Build your skills with file management commands like `cat`, `ls`, and `find`.
 
 ---
 
