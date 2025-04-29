@@ -1,0 +1,87 @@
+# Command Codex: Explore Manuals 📚
+
+## `man` - Read Command Manuals
+
+- **What it does**: Opens a manual page for any command, explaining its purpose, options, and usage.
+    
+- **Why I use it**: It’s like having a wise mentor who explains exactly how a command works when I’m confused.
+    
+- **Example**:
+    
+    ```bash
+    man ls
+    ```
+    
+    Brings up the manual for `ls`, with key sections:
+    
+    - **NAME**: The command’s name (e.g., “ls - list directory contents”).
+    - **SYNOPSIS**: How to write the command (e.g., `ls [OPTION]... [FILE]...`).
+    - **DESCRIPTION**: What it does and all its options (like `-l` or `-a`).
+    - **SEE ALSO**: Related commands to explore.
+- **Navigating the manual**:
+    
+    - **Scroll**: Use arrow keys or `Page Up`/`Page Down` to move around.
+    - **Search**: Type `/keyword` (e.g., `/list`) and press `Enter` to find matches.
+    - **Next/Previous match**: Press `n` to jump to the next match, `N` to go back.
+    - **Exit**: Press `q` to close the manual.
+- **Another example**:
+    
+    ```bash
+    man grep
+    ```
+    
+    Shows me how to use `grep` for searching files.
+    
+- **When to use**: Whenever I’m unsure about a command or want to discover its hidden tricks.
+    
+- **Tip**: Focus on NAME, SYNOPSIS, and DESCRIPTION for the essentials—I don’t need to read every word! #man
+    
+
+## `help` - Learn About Shell Builtins
+
+- **What it does**: Provides info on shell builtins—commands built directly into the terminal, like `cd` or `help`, which don’t have separate programs or `man` pages.
+    
+- **Why I use it**: It’s my quick way to understand commands that are part of the shell itself, saving me from guessing.
+    
+- **Example**:
+    
+    ```bash
+    help cd
+    ```
+    
+    Output:
+    
+    ```
+    cd: cd [-L|[-P [-e]] [-@]] [dir]
+        Change the shell working directory.
+        Change the current directory to DIR. The default DIR is the value of the
+        HOME shell variable...
+    ```
+    
+    Explains how `cd` moves me between directories.
+    
+- **List all builtins**:
+    
+    ```bash
+    help
+    ```
+    
+    Shows a list like `cd`, `help`, `exit`, `pwd`, and more.
+    
+- **Example with** `cd`:
+    
+    ```bash
+    cd /home/user/downloads
+    pwd
+    ```
+    
+    Output: `/home/user/downloads`
+    
+    The `cd` builtin changes my current directory, and `pwd` confirms it.
+    
+- **When to use**: When I’m working with shell commands like `cd` that feel different from standalone programs like `ls`.
+    
+- **Tip**: Builtins are super fast because they don’t launch external programs—cool efficiency! #help
+    
+
+---

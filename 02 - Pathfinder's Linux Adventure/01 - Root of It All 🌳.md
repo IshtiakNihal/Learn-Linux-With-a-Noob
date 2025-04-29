@@ -108,5 +108,3 @@ You’re setting up a music festival and need to store files across Linux.
 #root-directory
 
 ---
-
-_Last updated: April 16, 2025_

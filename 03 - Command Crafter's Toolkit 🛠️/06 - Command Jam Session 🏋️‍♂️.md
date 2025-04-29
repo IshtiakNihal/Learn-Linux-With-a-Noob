@@ -74,5 +74,3 @@ This section is a terminal session to practice essential commands and lock in yo
 #practice
 
 ---
-
-_Last updated: April 16, 2025_

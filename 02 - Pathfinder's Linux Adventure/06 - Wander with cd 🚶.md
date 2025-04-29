@@ -122,5 +122,3 @@ You’re hopping around festival folders.
 #cd
 
 ---
-
-_Last updated: April 16, 2025_

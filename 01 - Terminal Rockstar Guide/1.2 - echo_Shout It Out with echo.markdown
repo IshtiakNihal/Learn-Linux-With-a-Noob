@@ -141,5 +141,3 @@ You’re planning a festival and using `echo` to manage announcements and files.
 #echo
 
 ---
-
-*Last updated: April 16, 2025*

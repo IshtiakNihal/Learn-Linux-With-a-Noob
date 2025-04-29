@@ -101,5 +101,3 @@ You’re storing festival plans in your home directory.
 #home-directory
 
 ---
-
-_Last updated: April 16, 2025_

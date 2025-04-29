@@ -117,5 +117,3 @@ Imagine you’re setting up a music festival on a shared Linux server with your 
 #whoami
 
 ---
-
-*Last updated: April 16, 2025*

@@ -13,5 +13,3 @@ This repository dives into two fundamental Linux commands: `whoami` and `echo`. 
 - [Quick Practice](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/blob/d40f28fb42db78c41c4d61a529bde60ea8287b45/01%20-%20Terminal%20Rockstar%20Guide/Ex%20-%20practice_Jam%20Session%20Practice.markdown) 🏋️‍♂️
 
 ---
-
-*Last updated: April 16, 2025*

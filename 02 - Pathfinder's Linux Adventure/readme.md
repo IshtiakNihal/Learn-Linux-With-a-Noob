@@ -19,5 +19,3 @@ This repository is your roadmap to mastering Linux file paths and navigation. I�
 - Pathfinder’s Practice 🏋️‍♂️
 
 ---
-
-_Last updated: April 16, 2025_

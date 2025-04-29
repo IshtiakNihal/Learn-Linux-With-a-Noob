@@ -1,0 +1,39 @@
+# File Spotlight: Detailed Listings 📋
+
+## `ls -l` - Detailed File Listing
+
+- **What it does**: Displays files and folders in a long format, showing details like permissions, size, owner, and whether a file is a symlink (shortcut).
+    
+- **Why I use it**: It’s like getting a full report on what’s in my directory—especially helpful for spotting symlinks, which point to files elsewhere.
+    
+- **Example**:
+    
+    ```bash
+    ls -l
+    ```
+    
+    Output might look like:
+    
+    ```
+    drwxr-xr-x 2 user user 4096 Apr 15 09:00 documents
+    -rw-r--r-- 1 user user  123 Apr 15 10:00 notes.txt
+    lrwxrwxrwx 1 user user   25 Apr 15 11:00 link.txt -> /home/user/docs/file.txt
+    ```
+    
+    - `drwxr-xr-x` means `documents` is a directory.
+    - `-rw-r--r--` means `notes.txt` is a regular file.
+    - `lrwxrwxrwx` with `->` shows `link.txt` is a symlink pointing to `/home/user/docs/file.txt`.
+- **Another example**:
+    
+    ```bash
+    ls -l documents
+    ```
+    
+    Lists details for just the `documents` folder’s contents.
+    
+- **When to use**: When I need to check file properties or find out if something’s a symlink.
+    
+- **Tip**: The `l` in `lrwxrwxrwx` screams “link,” making symlinks easy to spot! #ls-l
+    
+
+---

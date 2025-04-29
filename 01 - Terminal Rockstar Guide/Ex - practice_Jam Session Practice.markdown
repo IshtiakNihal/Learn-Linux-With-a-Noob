@@ -46,5 +46,3 @@ This section is a festival-themed terminal session to master `whoami` and `echo`
 #practice
 
 ---
-
-*Last updated: April 16, 2025*

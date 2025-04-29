@@ -100,5 +100,3 @@ You’re organizing festival files and need to work with exact locations.
 #absolute-paths
 
 ---
-
-_Last updated: April 16, 2025_

@@ -107,5 +107,3 @@ You’re navigating festival folders.
 #cwd
 
 ---
-
-_Last updated: April 16, 2025_

@@ -37,5 +37,3 @@ This note is your go-to guide for Linux basics, covering commands to navigate an
 - Command Jam Session 🏋️‍♂️
 
 ---
-
-_Last updated: April 22, 2025_

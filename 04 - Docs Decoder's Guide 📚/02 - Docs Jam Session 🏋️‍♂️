@@ -1,0 +1,68 @@
+# Docs Jam Session 🏋️‍♂️
+
+This section is a fun terminal workout to make `ls -l`, `man`, and `help` stick through hands-on practice.
+
+## Practice Tasks
+
+1. List files with details:
+    
+    ```bash
+    ls -l
+    ```
+    
+    Look for any symlinks (lines starting with `l` and `->`).
+    
+2. Create a test directory and file:
+    
+    ```bash
+    mkdir test_folder
+    touch test_folder/sample.txt
+    ```
+    
+3. Make a symlink:
+    
+    ```bash
+    ln -s test_folder/sample.txt sample_link.txt
+    ```
+    
+4. Check the symlink:
+    
+    ```bash
+    ls -l
+    ```
+    
+    Confirm `sample_link.txt` points to `test_folder/sample.txt`.
+    
+5. Explore `ls`:
+    
+    ```bash
+    man ls
+    ```
+    
+    Search for `/long` to find the `-l` option, then press `q` to exit.
+    
+6. Learn about `cd`:
+    
+    ```bash
+    help cd
+    ```
+    
+7. Move around:
+    
+    ```bash
+    cd test_folder
+    pwd
+    cd ..
+    ```
+    
+8. Clean up:
+    
+    ```bash
+    rm sample_link.txt
+    rm -r test_folder
+    ```
+    
+
+#practice
+
+---

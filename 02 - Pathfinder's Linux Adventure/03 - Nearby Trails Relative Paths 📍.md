@@ -117,5 +117,3 @@ You’re working in `/home/user/festival`.
 #relative-paths
 
 ---
-
-_Last updated: April 16, 2025_

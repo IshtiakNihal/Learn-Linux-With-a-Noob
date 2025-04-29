@@ -136,5 +136,3 @@ You’re working in a festival folder structure.
 #dot-double-dot
 
 ---
-
-_Last updated: April 16, 2025_

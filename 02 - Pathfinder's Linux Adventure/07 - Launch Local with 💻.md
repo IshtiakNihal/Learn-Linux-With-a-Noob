@@ -110,5 +110,3 @@ You’re running festival scripts.
 #run-commands
 
 ---
-
-_Last updated: April 16, 2025_
