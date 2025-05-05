@@ -14,9 +14,9 @@ The Linux Learning Lab is your personal journey through the Linux terminal, cove
   - Navigate Linux paths and directories like a pro explorer.
 - [Command Crafter's Toolkit](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/tree/93a6ce7a7518a908a16ea5c442bfe88159997005/03%20-%20Command%20Crafter's%20Toolkit%20%F0%9F%9B%A0%EF%B8%8F) 
   - Build your skills with file management commands like `cat`, `ls`, and `find`.
-- [Docs Decoder's Guide](./docs-decoders-guide/README.md) 📚
+- [Docs Decoder's Guide](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/tree/cd64b877e44caed26245d500bef4e4955edc0e9d/04%20-%20Docs%20Decoder's%20Guide%20%F0%9F%93%9A) 📚
   - Unlock the power of command documentation with `man` and `help`.
-- [Wildcard Wizardry](./wildcard-wizardry/README.md) 🌈
+- [Wildcard Wizardry](https://github.com/IshtiakNihal/Learn-Linux-With-a-Noob/tree/cd64b877e44caed26245d500bef4e4955edc0e9d/05%20-%20Wildcard%20Globbing%20Wizardry%20%F0%9F%8C%9F) 🌈
   - Conjure file patterns with wildcards like `*`, `?`, and `[]`.
 
 ---
